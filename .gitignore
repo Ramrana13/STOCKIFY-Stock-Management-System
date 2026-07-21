@@ -1,0 +1,18 @@
+*.class
+build/
+target/
+bin/
+out/
+.vscode/
+.settings/
+.idea/
+*.log
+*.tmp
+*.temp
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Java dependency JAR files
+*.jar
