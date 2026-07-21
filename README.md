@@ -120,3 +120,16 @@ Use the following admin credentials to sign in:
 4. **Shop Stock & Retail Sales**: Check quantities available on the shop floor. Click **Sell** to log a customer purchase, which decrements available shop floor stocks and logs sales counters.
 5. **Transfers Requests (Transactions)**: If shop floor stocks are low, click **Request Stock** on the Shop floor page. A modal will open. Set a quantity (capped by warehouse availability) and submit. Go to the **Transfers** tab to approve it. Stock will deduct from the warehouse and add to the shop in a single transaction.
 6. **Reporting Audit**: Filter reports client-side for low stock warnings. Click **Export CSV** to download a ledger file or click **Print/PDF** to export a clean document with hidden control buttons.
+
+---
+
+## 📸 Application Screenshots
+
+The following screenshots demonstrate the major modules and workflow of the Stockify Stock Management System.
+
+### 🔐 Admin Login
+Secure administrator authentication for accessing the Stockify inventory management system.
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/f66b6bf4-d0a5-4a33-90c0-d7bba078f3e9" />
+
+
+   
