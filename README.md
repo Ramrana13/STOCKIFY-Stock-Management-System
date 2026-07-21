@@ -131,5 +131,34 @@ The following screenshots demonstrate the major modules and workflow of the Stoc
 Secure administrator authentication for accessing the Stockify inventory management system.
 <img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/f66b6bf4-d0a5-4a33-90c0-d7bba078f3e9" />
 
+### 📊 Dashboard
+Provides an overview of total products, stock quantities, low-stock alerts, and pending stock transfers.
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/a9233a2a-6f85-4405-8d48-df42ed4a87af" />
+
+### 📦 Product Management
+Manage product details including SKU, category, price, description, and minimum safety stock.
+<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/6e9b61fb-d62b-4928-b5bb-c257b6c56ae9" />
+
+### 🏢 Warehouse Inventory
+Monitor and update product quantities available in the central warehouse.
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/26d9b756-d229-4654-b322-25b8a87baa37" />
+
+### 🏪 Shop Floor Inventory
+Monitor shop stock, record product sales, and request additional stock from the warehouse.
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/cd8b83a7-436c-4c9a-b03e-83ce1ccee4c2" />
+
+### 🔄 Stock Transfer Management
+Request, approve, or reject stock transfers between the warehouse and shop.
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/8fd85ca6-fd9b-481a-8d12-ffc8ad696755" />
+
+### 📊 Report Center
+View inventory statistics, search and filter records, and monitor estimated asset valuation.
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/1a21c26e-0825-4889-b954-a69dae6ebbd6" />
+
+### 📄 Report Export
+Generate inventory reports using PDF and CSV/Excel export functionality.
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/cc273f24-d063-4516-9247-1948cd2a4974" />
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/542f5d49-3ac2-42c2-9f46-657ed073efc2" />
+
 
    
