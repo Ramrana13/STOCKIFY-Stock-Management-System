@@ -1,4 +1,4 @@
-# Sockify-Stock Management System
+# Stockify-Stock Management System
 
 A complete, responsive, MVC-based **Stock Management & Inventory System** designed for B.Tech Academic Project submission. Built using core Java Web technologies (Servlets & JSPs) with a MySQL backend database, utilizing **Jakarta EE** specifications to guarantee seamless compatibility with modern servers like **Apache Tomcat 10+**.
 
